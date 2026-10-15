@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Caches de herramientas
+.mypy_cache/
+.pytest_cache/
+
+# Logs de corridas locales
+fullrun*.log
+
+# Producto completo del crawl (pesa ~100 MB): en el repo van solo muestras en data/muestras/
+data/libros.db
+data/libros.json
+data/images/

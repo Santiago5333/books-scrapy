@@ -1,0 +1,6 @@
+# Dependencias de runtime del scraper
+scrapy==2.19.0
+pillow==12.3.0   # requerido por ImagesPipeline para validar/convertir las imagenes
+
+# Desarrollo / tests
+pytest==9.1.1
